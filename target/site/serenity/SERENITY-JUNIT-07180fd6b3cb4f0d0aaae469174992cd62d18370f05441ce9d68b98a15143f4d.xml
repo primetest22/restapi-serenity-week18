@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.restapiexample.dummy.employeeinfo.EmployeeCURDTest" skipped="0" tests="1" time="0.0" timestamp="2022-06-07T22:42:27.325+01:00[Europe/London]"><testcase classname="com.restapiexample.dummy.employeeinfo.EmployeeCURDTest" name="Initialisation"><error message="null" type="java.lang.NumberFormatException">null</error><system-err>null&#13;
+com.restapiexample.dummy.testbase.TestBase.init(TestBase.java:17)&#13;
+</system-err></testcase></testsuite>
